@@ -2,8 +2,9 @@ def print_hello():
     print("Hello, World!")
 
 def print_KIT():
-    print("KIT")
+    print("KITTIK")
 
 if __name__ == "__main__":
-    print_KIT()
     print_hello()
+    print("AEADASDAD")
+    print_KIT()
